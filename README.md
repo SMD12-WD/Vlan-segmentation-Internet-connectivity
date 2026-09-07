@@ -94,10 +94,10 @@ Configured a simulated Internet server with several network services:
 
 Tested connectivity throughout the network using tools such as:
 
-ping
-show ip interface brief
-show ip route
-show ip nat translations
+ping, 
+show ip interface brief, 
+show ip route, 
+show ip nat translations, 
 show access-lists
 
 ## Key Learning Outcomes
