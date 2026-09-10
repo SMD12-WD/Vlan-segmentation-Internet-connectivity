@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a simulated business network designed and configured in **Cisco Packet Tracer**. The network simulates how a small business can use VLAN segmentation, inter-VLAN routing, DHCP, NAT/PAT, and Internet based network services to create a structured and functional network environment.
+This project is a simulated business network designed and configured in **Cisco Packet Tracer**. The network simulates how a small business can use VLAN segmentation, inter-VLAN routing, DHCP, NAT/PAT, and Internet based network services to create a functional network environment.
 
 ## Network Topology
 
