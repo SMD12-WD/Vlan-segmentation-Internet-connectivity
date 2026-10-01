@@ -28,7 +28,6 @@ This project is a simulated business network designed and configured in **Cisco 
 * DHCP
 * IPv4 Addressing
 * Subnetting
-* Default Routing
 * NAT/PAT
 * WAN Connectivity
 * DNS
